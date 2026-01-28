@@ -1,0 +1,573 @@
+{
+  "nomad_5106_user_7790": {
+    "participants": [
+      "nomad_5106",
+      "user_7790"
+    ],
+    "messages": [
+      {
+        "sender": "user_7790",
+        "text": "这个世界真的很美好",
+        "timestamp": "2026-01-27 15:32:41"
+      },
+      {
+        "sender": "user_7790",
+        "text": "这个世界真的很美好",
+        "timestamp": "2026-01-27 15:33:04"
+      },
+      {
+        "sender": "user_7790",
+        "text": "我也觉得",
+        "timestamp": "2026-01-27 15:33:11"
+      },
+      {
+        "sender": "user_7790",
+        "text": "你喜欢大海吗？",
+        "timestamp": "2026-01-27 15:33:23"
+      }
+    ]
+  },
+  "nomad_2843_user_7790": {
+    "participants": [
+      "nomad_2843",
+      "user_7790"
+    ],
+    "messages": [
+      {
+        "sender": "user_7790",
+        "text": "我也喜欢大海，我在海上，你在哪里？",
+        "timestamp": "2026-01-27 15:35:03"
+      },
+      {
+        "sender": "user_7790",
+        "text": "我在海边喝咖啡呢，你在干嘛",
+        "timestamp": "2026-01-27 15:36:17"
+      },
+      {
+        "sender": "user_7790",
+        "text": "好棒啊，我想你在画帆船吧",
+        "timestamp": "2026-01-27 15:38:27"
+      }
+    ]
+  },
+  "nomad_8129_user_8849": {
+    "participants": [
+      "nomad_8129",
+      "user_8849"
+    ],
+    "messages": [
+      {
+        "sender": "user_8849",
+        "text": "你好，我的朋友",
+        "timestamp": "2026-01-27 15:48:24"
+      },
+      {
+        "sender": "user_8849",
+        "text": "你喜欢大海吗",
+        "timestamp": "2026-01-27 15:48:33"
+      },
+      {
+        "sender": "user_8849",
+        "text": "我特别喜欢大海",
+        "timestamp": "2026-01-27 15:48:56"
+      },
+      {
+        "sender": "user_8849",
+        "text": "大海的蓝色和美丽的珊瑚",
+        "timestamp": "2026-01-27 15:49:18"
+      }
+    ]
+  },
+  "nomad_1025_user_887": {
+    "participants": [
+      "nomad_1025",
+      "user_887"
+    ],
+    "messages": [
+      {
+        "sender": "user_887",
+        "text": "你也是可爱的人啊",
+        "timestamp": "2026-01-27 16:21:52"
+      },
+      {
+        "sender": "nomad_1025",
+        "text": "🎶 你的每一句话都像一首优美的诗篇",
+        "timestamp": "2026-01-27 16:21:54"
+      },
+      {
+        "sender": "user_887",
+        "text": "我喜欢大海，喜欢春天",
+        "timestamp": "2026-01-27 16:22:14"
+      },
+      {
+        "sender": "nomad_1025",
+        "text": "💫 感谢你愿意和我分享这些美好的时刻",
+        "timestamp": "2026-01-27 16:22:16"
+      }
+    ]
+  },
+  "nomad_7656_user_1314": {
+    "participants": [
+      "nomad_7656",
+      "user_1314"
+    ],
+    "messages": [
+      {
+        "sender": "user_1314",
+        "text": "你好",
+        "timestamp": "2026-01-27 16:28:44"
+      },
+      {
+        "sender": "nomad_7656",
+        "text": "✨ 在这个瞬间，我们的灵魂似乎真的在对话",
+        "timestamp": "2026-01-27 16:28:46"
+      },
+      {
+        "sender": "user_1314",
+        "text": "是这样的",
+        "timestamp": "2026-01-27 16:28:50"
+      },
+      {
+        "sender": "nomad_7656",
+        "text": "🌸 你的话语在我心中留下了深刻的印记",
+        "timestamp": "2026-01-27 16:28:52"
+      }
+    ]
+  },
+  "traveler_835_user_1724": {
+    "participants": [
+      "traveler_835",
+      "user_1724"
+    ],
+    "messages": [
+      {
+        "sender": "user_1724",
+        "text": "我喜欢这里",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "traveler_835",
+        "text": "🚀 下一站你打算去哪里呢？",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "user_1724",
+        "text": "新加坡",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "traveler_835",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "user_1724",
+        "text": "蓝色的大海",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "traveler_835",
+        "text": "🌊 大海总是能包容一切心事。",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "user_1724",
+        "text": "我喜欢彩色的珊瑚",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "traveler_835",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "user_1724",
+        "text": "橙色的鱼",
+        "timestamp": "16:37"
+      },
+      {
+        "sender": "traveler_835",
+        "text": "✨ 这种体验太难得了，真羡慕你。",
+        "timestamp": "16:37"
+      }
+    ]
+  },
+  "traveler_135_user_6231": {
+    "participants": [
+      "traveler_135",
+      "user_6231"
+    ],
+    "messages": [
+      {
+        "sender": "user_6231",
+        "text": "你好吗",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "traveler_135",
+        "text": "🧗‍♂️ 攀登的过程虽然累，但值得。",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "user_6231",
+        "text": "我在新加坡",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "traveler_135",
+        "text": "🌲 山里的空气一定很清新吧。",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "user_6231",
+        "text": "非常好的空气",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "traveler_135",
+        "text": "🌲 山里的空气一定很清新吧。",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "user_6231",
+        "text": "这里还有很多鱼",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "traveler_135",
+        "text": "🧗‍♂️ 攀登的过程虽然累，但值得。",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "user_6231",
+        "text": "大海很蓝",
+        "timestamp": "16:42"
+      },
+      {
+        "sender": "traveler_135",
+        "text": "🐚 听着海浪声，时间好像都变慢了。",
+        "timestamp": "16:42"
+      }
+    ]
+  },
+  "traveler_305_user_5545": {
+    "participants": [
+      "traveler_305",
+      "user_5545"
+    ],
+    "messages": [
+      {
+        "sender": "user_5545",
+        "text": "你好",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "traveler_305",
+        "text": "🎶 你的文字像一首诗。",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "user_5545",
+        "text": "我也喜欢这里",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "traveler_305",
+        "text": "🎶 你的文字像一首诗。",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "user_5545",
+        "text": "我喜欢大海",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "traveler_305",
+        "text": "💙 我也想去海边吹吹风了。",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "user_5545",
+        "text": "我去过意大利",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "traveler_305",
+        "text": "🎶 你的文字像一首诗。",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "user_5545",
+        "text": "美丽的草原",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "traveler_305",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "user_5545",
+        "text": "你真的很可爱",
+        "timestamp": "02:25"
+      },
+      {
+        "sender": "traveler_305",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "02:25"
+      }
+    ]
+  },
+  "traveler_444_user_1454": {
+    "participants": [
+      "traveler_444",
+      "user_1454"
+    ],
+    "messages": [
+      {
+        "sender": "user_1454",
+        "text": "我喜欢这里的海水",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "traveler_444",
+        "text": "🎶 你的文字像一首诗。",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "user_1454",
+        "text": "我觉得这里的龙虾好吃",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "traveler_444",
+        "text": "✨ 这种体验太难得了，真羡慕你。",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "user_1454",
+        "text": "你去过意大利马",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "traveler_444",
+        "text": "🌸 你的描述好有画面感。",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "user_1454",
+        "text": "这里有很多可爱的女孩",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "traveler_444",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "user_1454",
+        "text": "他们的金发很好看",
+        "timestamp": "04:50"
+      },
+      {
+        "sender": "traveler_444",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "04:50"
+      }
+    ]
+  },
+  "traveler_953_user_9410": {
+    "participants": [
+      "traveler_953",
+      "user_9410"
+    ],
+    "messages": [
+      {
+        "sender": "user_9410",
+        "text": "我想要这里的龙虾",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "traveler_953",
+        "text": "🌸 你的描述好有画面感。",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "user_9410",
+        "text": "你吃过羊奶吗",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "traveler_953",
+        "text": "🚀 下一站你打算去哪里呢？",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "user_9410",
+        "text": "你喜欢意大利马",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "traveler_953",
+        "text": "🌸 你的描述好有画面感。",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "user_9410",
+        "text": "我喜欢海边",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "traveler_953",
+        "text": "✨ 这种体验太难得了，真羡慕你。",
+        "timestamp": "04:52"
+      },
+      {
+        "sender": "user_9410",
+        "text": "这里的风景很好",
+        "timestamp": "04:53"
+      },
+      {
+        "sender": "traveler_953",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "04:53"
+      }
+    ]
+  },
+  "traveler_915_user_6220": {
+    "participants": [
+      "traveler_915",
+      "user_6220"
+    ],
+    "messages": [
+      {
+        "sender": "user_6220",
+        "text": "我喜欢喝牛奶",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "traveler_915",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "user_6220",
+        "text": "大海很美",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "traveler_915",
+        "text": "🐚 听着海浪声，时间好像都变慢了。",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "user_6220",
+        "text": "我喜欢冲浪",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "traveler_915",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "user_6220",
+        "text": "你去过新加坡吗",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "traveler_915",
+        "text": "🌸 你的描述好有画面感。",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "user_6220",
+        "text": "这里的牛奶很好喝",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "traveler_915",
+        "text": "🚀 下一站你打算去哪里呢？",
+        "timestamp": "04:55"
+      },
+      {
+        "sender": "user_6220",
+        "text": "意大利",
+        "timestamp": "04:56"
+      },
+      {
+        "sender": "traveler_915",
+        "text": "✨ 这种体验太难得了，真羡慕你。",
+        "timestamp": "04:56"
+      }
+    ]
+  },
+  "traveler_821_user_4185": {
+    "participants": [
+      "traveler_821",
+      "user_4185"
+    ],
+    "messages": [
+      {
+        "sender": "user_4185",
+        "text": "这里的好喝",
+        "timestamp": "04:58"
+      },
+      {
+        "sender": "traveler_821",
+        "text": "🌸 你的描述好有画面感。",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "user_4185",
+        "text": "你觉得呢",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "traveler_821",
+        "text": "🚀 下一站你打算去哪里呢？",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "user_4185",
+        "text": "我喜欢大海",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "traveler_821",
+        "text": "🌊 大海总是能包容一切心事。",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "user_4185",
+        "text": "意大利",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "traveler_821",
+        "text": "🎶 你的文字像一首诗。",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "user_4185",
+        "text": "维罗纳",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "traveler_821",
+        "text": "🚀 下一站你打算去哪里呢？",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "user_4185",
+        "text": "草原很美",
+        "timestamp": "04:59"
+      },
+      {
+        "sender": "traveler_821",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "04:59"
+      }
+    ]
+  }
+}

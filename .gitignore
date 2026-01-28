@@ -3,6 +3,32 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# NomadEcho 特定文件
+.env                        # API Keys and secrets
+.env.local                  # Local environment overrides
+.streamlit/                 # Streamlit cache and secrets
+insights_data.json          # Generated data files
+chats.json                  # Generated data files
+test_poster.png             # Generated test images
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
 # C extensions
 *.so
 
