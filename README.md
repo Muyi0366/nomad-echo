@@ -125,7 +125,7 @@ python3 test_complete.py
 
 ```
 nomad-echo/
-├── app.py                      # Main application (725 lines)
+├── app.py                      # Main application (361 lines)
 │   ├── Data management layer (load/save JSON)
 │   ├── Dual-mode poster engine (API + fallback)
 │   ├── Chat UI with Streamlit components
@@ -346,7 +346,7 @@ docker run -p 8501:8501 nomad-echo
 ## 📊 Code Metrics
 
 ```
-Lines of Code:     ~725 (app.py)
+Lines of Code:     361 (app.py)
 Functions:         20+
 Data Models:       2 (insights, chats)
 CSS Lines:         150+
