@@ -743,5 +743,63 @@
         "timestamp": "07:54"
       }
     ]
+  },
+  "traveler_779_user_6411": {
+    "participants": [
+      "traveler_779",
+      "user_6411"
+    ],
+    "messages": [
+      {
+        "sender": "user_6411",
+        "text": "hhfhfhh",
+        "timestamp": "05:01"
+      },
+      {
+        "sender": "traveler_779",
+        "text": "💫 真的吗？快多跟我说说。",
+        "timestamp": "05:01"
+      },
+      {
+        "sender": "user_6411",
+        "text": "hdhdhdh",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "traveler_779",
+        "text": "🌸 你的描述好有画面感。",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "user_6411",
+        "text": "hfhfhfhfh",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "traveler_779",
+        "text": "✨ 这种体验太难得了，真羡慕你。",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "user_6411",
+        "text": "大海",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "traveler_779",
+        "text": "💙 我也想去海边吹吹风了。",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "user_6411",
+        "text": "哈十九点",
+        "timestamp": "05:02"
+      },
+      {
+        "sender": "traveler_779",
+        "text": "🚀 下一站你打算去哪里呢？",
+        "timestamp": "05:02"
+      }
+    ]
   }
 }
